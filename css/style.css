@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-size: cover;
+}
+#quote_body{
+    background-color: rgba(255, 255, 255, 0.842);
+    min-height: 200px;
+    padding: 30px;
+    width:60%;
+    margin:100px auto;
+    border-radius:20px;
+    text-align: center;
+}
