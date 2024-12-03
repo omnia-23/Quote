@@ -69,7 +69,7 @@ function new_quote() {
   }
   oldx = x;
 
-  document.body.style.backgroundImage = quotes[x].img;
+  // document.body.style.backgroundImage = quotes[x].img;
   document.getElementById("quote").innerHTML = `
   <div id="quote_body" class="fs-4"> 
   <div class="align-middle fs-3">“${quotes[x].text}”</div>
